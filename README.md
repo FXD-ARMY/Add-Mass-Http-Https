@@ -16,4 +16,5 @@ $ cd Add-Mass-Http-Https
 
 $ bash Add.sh
 
-![alt text](?https://l.top4top.io/p_3032gp0sa0.jpg=true)
+
+![alt text](https://l.top4top.io/p_3032gp0sa0.jpg?raw=true)
